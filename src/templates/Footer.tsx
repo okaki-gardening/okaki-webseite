@@ -93,9 +93,15 @@ const Footer = () => (
       </CenteredFooter>
     </Section>
     <Section yPadding="pt-10 pb-5">
-      <p>Impressum: Diese Seite ist ein nicht-kommerzielles open-source Projekt und dient als Illustration.</p>
-      <p>Angaben gemäß § 5 TMG: René Bohne Hottorferstr. 7 52445 Titz</p>
-      <p>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: René Gern, Hottorferstr. 7, 52445 Titz</p>
+      <p>
+        Impressum: Diese Seite ist ein nicht-kommerzielles open-source Projekt
+        und dient als Illustration.
+      </p>
+      <p>Angaben gemäß § 5 TMG: René Gern, Hottorferstr. 7, 52445 Titz</p>
+      <p>
+        Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: René Gern,
+        Hottorferstr. 7, 52445 Titz
+      </p>
       <p>E-Mail: rene@okaki.org</p>
     </Section>
   </Background>
