@@ -10,7 +10,7 @@ const Banner = () => (
       title="okaKI ist kostenlos und open-source."
       subtitle="Starte noch heute!"
       button={
-        <Link href="https://digitale-dinge.de">
+        <Link href="https://github.com/okaki-gardening">
           <a>
             <Button>Start</Button>
           </a>
