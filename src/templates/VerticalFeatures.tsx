@@ -7,7 +7,7 @@ const VerticalFeatures = () => (
     <Section
       title="KI im Garten"
       description="okaKI übernimmt die Gartenbewässerung für Dich."
-      title-color="bg-gray-200"
+      title-color="bg-gray-100"
     >
       <VerticalFeatureRow
         title="Feuchtigkeits-Sensoren"
