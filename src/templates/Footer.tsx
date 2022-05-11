@@ -86,7 +86,7 @@ const Footer = () => (
           </Link>
         </li>
         <li>
-          <Link href="https://github.com/">
+          <Link href="https://github.com/okaki-gardening">
             <a>GitHub</a>
           </Link>
         </li>

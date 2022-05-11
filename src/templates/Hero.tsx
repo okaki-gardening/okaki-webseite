@@ -12,7 +12,7 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://github.com/">
+          <Link href="https://github.com/okaki-gardening">
             <a>GitHub</a>
           </Link>
         </li>
@@ -41,7 +41,7 @@ const Hero = () => (
         }
         description="Die einfachste Art, mit Open-Source Hardware den Garten zu bewässern."
         button={
-          <Link href="https://digitale-dinge.de">
+          <Link href="https://github.com/okaki-gardening">
             <a>
               <Button xl>Jetzt loslegen</Button>
             </a>
