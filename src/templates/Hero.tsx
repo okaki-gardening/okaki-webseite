@@ -50,14 +50,10 @@ const Hero = () => (
       />
     </Section>
 
-    <Section
-      yPadding="pt-20 pb-32"
-      title={<span className="text-primary-900">Vorstellung bei Youtube</span>}
-    >
+    <Section yPadding="pt-20 pb-32" title="YouTube Video">
       <div className="video-container">
         <iframe
           id="player"
-          type="text/html"
           width="640"
           height="360"
           src="http://www.youtube.com/embed/28t_MmGZK_s?enablejsapi=1&origin=http://okaki.org"
