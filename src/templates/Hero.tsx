@@ -56,7 +56,7 @@ const Hero = () => (
           id="player"
           width="640"
           height="360"
-          src="http://www.youtube.com/embed/28t_MmGZK_s?enablejsapi=1&origin=http://okaki.org"
+          src="http://www.youtube.com/embed/28t_MmGZK_s?enablejsapi=1"
           frameBorder="0"
         ></iframe>
       </div>
