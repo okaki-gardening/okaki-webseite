@@ -26,7 +26,7 @@ const Hero = () => (
 
     <Section yPadding="pt-0 pb-0">
       <img
-        src="/assets/images/background.png"
+        src="/assets/images/background.jpg"
         alt="background image shows a nice garden and the okaKI Logo"
       ></img>
     </Section>
