@@ -31,7 +31,7 @@ const VerticalFeatureRow = (props: IVerticalFeatureRowProps) => {
         </div>
       </div>
 
-      <div className="w-full sm:w-1/2 p-6">
+      <div className="w-full sm:w-1/3 p-6">
         <img src={`${router.basePath}${props.image}`} alt={props.imageAlt} />
       </div>
     </div>
