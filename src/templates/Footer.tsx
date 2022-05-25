@@ -7,6 +7,18 @@ import { Logo } from './Logo';
 
 const Footer = () => (
   <Background color="bg-gray-100">
+    <Section yPadding="pt-20 pb-32" title="YouTube Video" inverted>
+      <div className="video-container">
+        <iframe
+          id="player"
+          width="640"
+          height="360"
+          src="https://www.youtube.com/embed/28t_MmGZK_s?enablejsapi=1?rel=0"
+          frameBorder="0"
+          allow="fullscreen;"
+        ></iframe>
+      </div>
+    </Section>
     <Section>
       <CenteredFooter
         logo={<Logo />}
